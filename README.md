@@ -24,8 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ebayybe&icon=10&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Temporarily unavailable) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Temporarily unavailable) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Temporarily unavailable) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Temporarily unavailable) 
+## 💰 You can help me by Donating
 
+[![BuyMeACoffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-link) [![PayPal](https://img.shields.io/badge/PAYPAL-00457C?logo=paypal&logoColor=white)](https://paypal.me/your-link) [![Patreon](https://img.shields.io/badge/PATREON-F96854?logo=patreon&logoColor=white)](https://patreon.com/your-link) [![Ko-Fi](https://img.shields.io/badge/KO--FI-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/your-link)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
