@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ebayybe/ebayybe/blob/edaae490465921ff753725140698d3168f541653/IMG_2375642765.jpg" alt="Мое изображение" width="600" height="450">
+  <img src="https://github.com/ebayybe/ebayybe/blob/edaae490465921ff753725140698d3168f541653/IMG_2375642765.jpg" alt="My image" width="600" height="450">
 </p>
 
 # 💫 About Me:
