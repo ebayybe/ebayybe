@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ebayybe/ebayybe/blob/edaae490465921ff753725140698d3168f541653/IMG_2375642765.jpg" alt="Мое изображение" width="600" height="450">
+</p>
+
 # 💫 About Me:
 🚀 Hello! I am a developer who enjoys transforming code into creative projects.<br>💡 I am constantly learning new technologies and experimenting with interesting ideas.<br>🔧 I work with JavaScript, React, Node.js, and other modern tools.<br>📌 I share my experience and create projects that simplify life for developers.<br>🎯 Coding isn't just a job, it's a way to make the world a better place.
 
