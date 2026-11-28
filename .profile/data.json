@@ -1,5 +1,5 @@
 {
- "key": "770fc354",
+ "key": "c3415195",
  "stars": 8,
  "contributions": 138,
  "repos": 8,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
